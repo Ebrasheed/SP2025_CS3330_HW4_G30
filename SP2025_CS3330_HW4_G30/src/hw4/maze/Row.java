@@ -1,5 +1,6 @@
 package hw4.maze;
 
+import java.util.ArrayList;
 /**
  * Represents a row in the maze, consisting of multiple cells.
  */
